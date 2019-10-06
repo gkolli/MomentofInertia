@@ -1,2 +1,2 @@
 # MomentofInertia
-Calculates Moment of Inertia Given Dimensions 
+Calculates moment of inertia based on user-given measurements 
